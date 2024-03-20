@@ -2,7 +2,7 @@
   "name": "Michota",
   "displayName": "Michota Theme",
   "description": "A vibrant and modern color theme with a mix of bold and subtle colors. It provides a visually pleasing experience for coding and enhances code readability. The theme includes distinct colors for different syntax elements such as keywords, variables, functions, and more. It also features a combination of cool and warm colors to create a balanced and harmonious coding environment.",
-  "version": "0.2.2",
+  "version": "0.2.3",
   "publisher": "Michota",
   "engines": {
     "vscode": "^1.13.0"

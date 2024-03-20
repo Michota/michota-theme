@@ -11,6 +11,10 @@
     "Themes"
   ],
   "icon": "icon.png",
+   "repository": {
+    "type": "git",
+    "url": "https://github.com/Michota/michota-theme"
+  },
   "contributes": {
     "themes": [
       {

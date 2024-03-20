@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="silevis_uproszczone_czarne" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 37.78 25.89">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #ffdc52;
+      }
+    </style>
+  </defs>
+  <rect class="cls-1" y="24.22" width="1.65" height="1.65"/>
+  <g>
+    <polygon class="cls-1" points="2.33 25.86 4.33 25.86 10.12 0 8.12 0 2.33 25.86"/>
+    <polygon class="cls-1" points="18.07 25.88 16.07 25.88 10.28 .02 12.28 .02 18.07 25.88"/>
+    <polygon class="cls-1" points="16.43 25.87 18.43 25.87 24.22 0 22.22 0 16.43 25.87"/>
+    <polygon class="cls-1" points="32.17 25.89 30.17 25.89 24.38 .03 26.38 .03 32.17 25.89"/>
+    <polygon class="cls-1" points="37.78 25.86 35.78 25.86 29.99 0 31.99 0 37.78 25.86"/>
+  </g>
+</svg>

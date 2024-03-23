@@ -103,8 +103,6 @@
     "editorBracketHighlight.foreground2": "#d186d8",
     "editorBracketHighlight.foreground3": "#56b6c2",
     "editorBracketHighlight.foreground4": "#98c379",
-    "editorBracketHighlight.foreground5": "#FF52A3",
-    "editorBracketHighlight.foreground6": "#e06c75",
     "terminal.foreground": "#abb2bf",
     "terminal.ansiBlack": "#2d3139",
     "terminal.ansiBlue": "#FF52A3",

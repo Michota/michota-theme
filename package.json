@@ -2,7 +2,7 @@
   "name": "michota-theme",
   "displayName": "Michota Theme",
   "description": "Inspired by One Dark and Monokai Pro.",
-  "version": "0.2.4",
+  "version": "0.2.5",
   "publisher": "Michota",
   "engines": {
     "vscode": "^1.13.0"

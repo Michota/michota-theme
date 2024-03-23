@@ -62,6 +62,7 @@
     "list.focusOutline": "#bebebe",
     "list.hoverBackground": "#282828",
     "list.hoverForeground": "#e1e1e1",
+    "list.dropBackground": "#bebebe1a",
     "notifications.background": "#2c2c2c",
     "notificationCenterHeader.background": "#2c2c2c",
     "notificationCenter.border": "#3b3b3b",

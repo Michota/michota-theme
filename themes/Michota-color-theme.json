@@ -10,7 +10,7 @@
     "activityBarBadge.background": "#ffdc52",
     "activityBarBadge.foreground": "#303030",
     "activityBar.activeBorder": "#bebebe",
-    "activityBar.inactiveForeground": "#484848",
+    "activityBar.inactiveForeground": "#646464",
     "tab.activeForeground": "#bebebe",
     "button.foreground": "#161616",
     "button.hoverBackground": "#ffdc52",

@@ -304,7 +304,7 @@
       }
     },
     {
-      "name": "Function argument",
+      "name": "Function parameter",
       "scope": [
         "variable.parameter",
         "entity.name.variable.parameter",

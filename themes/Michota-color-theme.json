@@ -130,6 +130,7 @@
   "semanticHighlighting": true,
   "semanticTokenColors": {
     "*.declaration": { "italic": true, "bold": true },
+    "*.definition": { "italic": true, "bold": false },
     "parameter.declaration": "#d19a66",
   },
   "tokenColors": [

@@ -206,7 +206,7 @@
         "entity.name.type.alias.ts"
       ],
       "settings": {
-        "foreground": "#6c9ee0"
+        "foreground": "#3178c6"
       }
     },
     {
@@ -258,7 +258,7 @@
         "support.class"
       ],
       "settings": {
-        "foreground": "#61afef"
+        "foreground": "#74c0ff"
       }
     },
     {
@@ -273,7 +273,7 @@
         "variable.readwrite.other.block"
       ],
       "settings": {
-        "foreground": "#61afef"
+        "foreground": "#74c0ff"
       }
     },
     {
@@ -308,7 +308,7 @@
       "name": "Package Import",
       "scope": ["storage.modifier.import", "storage.modifier.package"],
       "settings": {
-        "foreground": "#61afef"
+        "foreground": "#74c0ff"
       }
     },
     {
@@ -502,7 +502,7 @@
       "name": "Link",
       "scope": "string.detected-link",
       "settings": {
-        "foreground": "#61afef"
+        "foreground": "#74c0ff"
       }
     },
     {
@@ -574,7 +574,7 @@
       "name": "Markdown: Link",
       "scope": "markup.underline.link.markdown",
       "settings": {
-        "foreground": "#61afef"
+        "foreground": "#74c0ff"
       }
     },
     {

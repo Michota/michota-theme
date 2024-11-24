@@ -306,10 +306,10 @@
       }
     },
     {
-      "name": "Function name",
-      "scope": ["entity.name.function", "support.function"],
+      "name": "Import",
+      "scope": ["variable.other.readwrite.alias", "meta.import"],
       "settings": {
-        "foreground": "#98c379"
+        "foreground": "#f49090",
       }
     },
     {

@@ -129,9 +129,12 @@
   },
   "semanticHighlighting": true,
   "semanticTokenColors": {
-    "parameter.declaration": { "foreground": "#d19a66", "italic": true },
-    "type": { "foreground": "#63AEFF", "fontStyle": "italic" },
-    "interface": { "foreground": "#63AEFF", "fontStyle": "italic" }
+    "*.declaration": { "fontStyle": "italic" },
+    "*.definition": { "fontStyle": "italic" },
+    "*.deprecated": { "fontStyle": "strikethrough" },
+    "type": { "foreground": "#63AEFF" },
+    "interface": { "foreground": "#63AEFF" },
+    "enum": { "foreground": "#63AEFF" }
   },
   "tokenColors": [
     {
@@ -203,10 +206,11 @@
         "entity.name.type.ts",
         "meta.type.declaration.ts",
         "entity.name.type.interface.ts",
-        "entity.name.type.alias.ts"
+        "entity.name.type.alias.ts",
+        "meta.interface"
       ],
       "settings": {
-        "foreground": "#6c9ee0"
+        "foreground": "#63AEFF"
       }
     },
     {

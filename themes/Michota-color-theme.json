@@ -324,15 +324,10 @@
       }
     },
     {
-      "name": "Function parameter",
-      "scope": [
-        "variable.parameter",
-        "entity.name.variable.parameter",
-        "parameter.variable"
-      ],
+      "name": "Function name",
+      "scope": ["entity.name.function", "support.function"],
       "settings": {
-        "fontStyle": "italic",
-        "foreground": "#d19a66"
+        "foreground": "#98c379"
       }
     },
     {

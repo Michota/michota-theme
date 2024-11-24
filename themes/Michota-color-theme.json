@@ -127,6 +127,7 @@
     "terminal.ansiBrightRed": "#f44747",
     "terminal.ansiBrightWhite": "#d7dae0"
   },
+  "semanticHighlighting": true,
   "tokenColors": [
     {
       "name": "Comment",

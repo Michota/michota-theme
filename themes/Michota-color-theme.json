@@ -132,8 +132,9 @@
     "*.declaration": { "fontStyle": "italic" },
     "*.definition": { "fontStyle": "italic" },
     "*.deprecated": { "fontStyle": "strikethrough" },
-    "variable.definition": { "foreground": "#ff63cb" },
-    "variable.parameter": { "foreground": "#ff63cb" },
+    "variable.definition": { "foreground": "#63b9ff" },
+    "variable.parameter": { "foreground": "#63b9ff" },
+    "parameter.declaration": { "foreground": "#d19a66" },
     "type": { "foreground": "#3178c6" },
     "interface": { "foreground": "#3178c6" },
     "enum": { "foreground": "#3178c6" }
@@ -181,8 +182,7 @@
         "punctuation.section.embedded.end.erb",
         "source.elixir.embedded",
         "punctuation.separator",
-        "punctuation.accessor",
-        "meta.brace"
+        "punctuation.accessor"
       ],
       "settings": {
         "foreground": "#abb2bf"
@@ -278,7 +278,7 @@
         "variable.readwrite"
       ],
       "settings": {
-        "foreground": "#ff63cb"
+        "foreground": "#63b9ff"
       }
     },
     {
@@ -288,7 +288,7 @@
         "variable.property",
       ],
       "settings": {
-        "foreground": "#db84be"
+        "foreground": "#90b1d9"
       }
     },
     {
@@ -329,6 +329,7 @@
         "foreground": "#98c379"
       }
     },
+    
     {
       "name": "Function call",
       "scope": "entity.name.function-call",

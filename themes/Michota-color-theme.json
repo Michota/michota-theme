@@ -131,6 +131,9 @@
   "semanticTokenColors": {
     "*.declaration": { "italic": true, "bold": true },
     "*.definition": { "italic": true, "bold": false },
+    "type": "#3a86d8",
+    "enum": "#3a86d8",
+    "interface": "#3a86d8",
     "parameter.declaration": "#d19a66",
   },
   "tokenColors": [

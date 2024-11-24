@@ -253,12 +253,11 @@
       "scope": [
         "entity.name.class",
         "entity.name.module",
-        "entity.name.type",
         "storage.identifier",
         "support.class"
       ],
       "settings": {
-        "foreground": "#61afef"
+        "foreground": "#d9fa56"
       }
     },
     {

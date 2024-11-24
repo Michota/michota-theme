@@ -129,7 +129,8 @@
   },
   "semanticHighlighting": true,
   "semanticTokenColors": {
-    "*.declaration": { "italic": true }
+    "*.declaration": { "italic": true },
+    "parameter.declaration": "#d19a66",
   },
   "tokenColors": [
     {
@@ -279,6 +280,7 @@
       "name": "Other variable",
       "scope": [
         "variable.other",
+        "variable.other.readwrite",
         "variable.other.property",
         "variable.other.block"
       ],
@@ -308,9 +310,8 @@
       }
     },
     {
-      "name": "Function argument",
+      "name": "Function parameter",
       "scope": [
-        "variable.parameter",
         "entity.name.variable.parameter",
         "parameter.variable"
       ],

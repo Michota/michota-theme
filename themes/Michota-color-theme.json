@@ -282,7 +282,6 @@
       ],
       "settings": {
         "foreground": "#58c4dc",
-        "fontStyle": "bold"
       }
     },
     {
@@ -348,7 +347,6 @@
       "scope": ["entity.name.tag", "entity.name.tag.class.js"],
       "settings": {
         "foreground": "#e06c75",
-        "fontStyle": "bold",
       }
     },
     {
@@ -363,7 +361,6 @@
       "scope": "entity.other.attribute-name",
       "settings": {
         "foreground": "#98c379",
-        "fontStyle": "bold"
       }
     },
     {

@@ -129,6 +129,7 @@
   },
   "semanticHighlighting": true,
   "semanticTokenColors": {
+    "parameter.declaration": { "foreground": "#d19a66", "italic": true },
     "type": { "foreground": "#63AEFF", "fontStyle": "italic" },
     "interface": { "foreground": "#63AEFF", "fontStyle": "italic" }
   },

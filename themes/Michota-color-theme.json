@@ -132,6 +132,8 @@
     "*.declaration": { "fontStyle": "italic" },
     "*.definition": { "fontStyle": "italic" },
     "*.deprecated": { "fontStyle": "strikethrough" },
+    "variable.definition": { "foreground": "#ff63cb" },
+    "variable.parameter": { "foreground": "#ff63cb" },
     "type": { "foreground": "#63AEFF" },
     "interface": { "foreground": "#63AEFF" },
     "enum": { "foreground": "#63AEFF" }
@@ -270,21 +272,30 @@
         "variable.other.object",
         "variable.other.constant",
         "variable.other.global",
+        "variable.other.readwrite",
         "variable.other.readwrite.class",
         "variable.other.readwrite.instance",
         "variable.other.readwrite.batchfile",
-        "variable.readwrite",
-        "variable.readwrite.other.block"
+        "variable.readwrite"
       ],
       "settings": {
-        "foreground": "#61afef"
+        "foreground": "#ff63cb"
+      }
+    },
+    {
+      "name": "Variable property",
+      "scope": [
+        "variable.other.property",
+        "variable.property",
+      ],
+      "settings": {
+        "foreground": "#db84be"
       }
     },
     {
       "name": "Other variable",
       "scope": [
         "variable.other",
-        "variable.other.property",
         "variable.other.block"
       ],
       "settings": {

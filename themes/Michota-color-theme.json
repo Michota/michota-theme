@@ -134,9 +134,9 @@
     "*.deprecated": { "fontStyle": "strikethrough" },
     "variable.definition": { "foreground": "#ff63cb" },
     "variable.parameter": { "foreground": "#ff63cb" },
-    "type": { "foreground": "#63AEFF" },
-    "interface": { "foreground": "#63AEFF" },
-    "enum": { "foreground": "#63AEFF" }
+    "type": { "foreground": "#3178c6" },
+    "interface": { "foreground": "#3178c6" },
+    "enum": { "foreground": "#3178c6" }
   },
   "tokenColors": [
     {
@@ -212,7 +212,7 @@
         "meta.interface"
       ],
       "settings": {
-        "foreground": "#63AEFF"
+        "foreground": "#3178c6"
       }
     },
     {
